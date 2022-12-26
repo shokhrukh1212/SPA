@@ -1,2 +1,2 @@
 # SPA
-SPA - single page application that 
+SPA - single page application
